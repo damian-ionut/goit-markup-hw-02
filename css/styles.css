@@ -11,6 +11,7 @@
     font-family: var(--secondary-font)
 }
 
+/* Menu Bar */
 .nav_item_list {
     font-weight: 500;
     font-size: 14px;
@@ -39,6 +40,7 @@
     color: #757575
 }
 
+/* Title */
 .main_title {
     background-color: #2F303A;
     color: #fff;
